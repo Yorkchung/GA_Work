@@ -1,0 +1,6 @@
+D:\計算智慧\GA\work\work\bin\Debug\work.exe.config
+D:\計算智慧\GA\work\work\obj\Debug\work.csprojResolveAssemblyReference.cache
+D:\計算智慧\GA\work\work\bin\Debug\work.exe
+D:\計算智慧\GA\work\work\bin\Debug\work.pdb
+D:\計算智慧\GA\work\work\obj\Debug\work.exe
+D:\計算智慧\GA\work\work\obj\Debug\work.pdb
